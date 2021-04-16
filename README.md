@@ -1,3 +1,6 @@
+
+# The Part about flattening json files into a CSV for analysis.
+
 WWW 2015 Tutorial
 =================
 
