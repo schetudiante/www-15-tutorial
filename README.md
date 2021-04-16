@@ -1,5 +1,5 @@
 
-# The Part about flattening json files into a CSV for analysis.
+# The Part about flattening json files into a CSV for analysis that is inside Make your own data.
 
 WWW 2015 Tutorial
 =================
